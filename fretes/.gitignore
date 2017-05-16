@@ -1,0 +1,16 @@
+tmp/
+.vagrant/
+.settings/
+old/
+ldif/
+.project
+staging/
+.idea
+*.vdi
+scratch.sh
+out/
+/ingress/ddclient.yaml
+/helm/todo
+/helm/custom.yaml
+/toolbox/docker/fretes/
+/helm/custom.yaml
